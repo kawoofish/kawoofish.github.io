@@ -1,1 +1,1 @@
-hello world
+# Kawoofish's homepage to link to other projects

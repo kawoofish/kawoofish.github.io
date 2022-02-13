@@ -1,1 +1,4 @@
-theme: jekyll-theme-cayman
+title: Kawoofish's website
+description: "Portfolio" of level design, programming, and other stuff
+theme: jekyll-theme-midnight
+show_downloads: true
